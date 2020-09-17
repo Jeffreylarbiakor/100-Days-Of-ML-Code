@@ -1,4 +1,4 @@
-# 100 Days Of ML Code
+# 100 Days Of ML Code 
 
 ![100 Days of ML Code challenge](InfoGraphs/GithubBanner.png) 
 
